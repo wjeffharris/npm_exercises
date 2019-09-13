@@ -1,0 +1,14 @@
+{
+  "name": "npm_exercises",
+  "version": "1.0.0",
+  "description": "Having fun with modules while learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "wjharris",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.3.0"
+  }
+}
